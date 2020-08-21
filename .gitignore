@@ -1,5 +1,9 @@
 # Adding config.py file.
 config.py
+Weather_Databas/config.py
+Vacation_Search/config.py
+Vacation_Itinerary/config.py
+
 # Adding addional files
 weather_practise.ipynb
 # Byte-compiled / optimized / DLL files
